@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/bin/Debug/netcoreapp2.1/Homework.Celsius.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/bin/Debug/netcoreapp2.1/Homework.Celsius.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/bin/Debug/netcoreapp2.1/Homework.Celsius.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/bin/Debug/netcoreapp2.1/Homework.Celsius.dll
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/bin/Debug/netcoreapp2.1/Homework.Celsius.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.dll
+/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/Debug/netcoreapp2.1/Homework.Celsius.pdb

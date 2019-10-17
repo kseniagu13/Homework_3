@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3EB3F63E-D668-4627-9FD3-D69965F5A364}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework.Celsius PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework.Celsius/Program.cs">
+    <Files>
+      <File FileName="Homework.Celsius/Program.cs" Line="23" Column="90" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework.Celsius" expanded="True">
+            <Node name="Homework.Celsius" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

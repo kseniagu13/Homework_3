@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/Homework.Celsius.csproj": {}
+  },
+  "projects": {
+    "/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/Homework.Celsius.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/Homework.Celsius.csproj",
+        "projectName": "Homework.Celsius",
+        "projectPath": "/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/Homework.Celsius.csproj",
+        "packagesPath": "/Users/kseniagustsenko/.nuget/packages/",
+        "outputPath": "/Users/kseniagustsenko/Desktop/program.alused/Homework.Celsius/Homework.Celsius/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kseniagustsenko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
